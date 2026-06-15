@@ -39,18 +39,6 @@ pip install opencv-python-headless dlib matplotlib numpy
    - Draw bounding boxes
    - Save the output image
 
-## Project Structure
-
-```
-Face-Detection/
-│
-├── face_detection.ipynb
-├── README.md
-├── requirements.txt
-├── sample_input.jpg
-├── sample_output.jpg
-└── face_result.jpg
-```
 
 ## Output Example
 
@@ -71,4 +59,4 @@ Output Image:
 
 ## Author
 
-Your Name
+Shivam Kumar
